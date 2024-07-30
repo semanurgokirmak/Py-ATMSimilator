@@ -1,2 +1,2 @@
 # Py-ATMSimilator
-Python diliyle bir atm similasyonu hazırladım
+Python diliyle bir atm simülasyonu hazırladım
